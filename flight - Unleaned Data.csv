@@ -1,0 +1,31 @@
+﻿flight_id ,flight_number ,airline,meal_inclusion,layover
+801,AA123,American Airlines,Yes,0
+802,DL456,Delta Airlines,No,1
+803,UA789,United Airlines,Yes,1
+804,BA234,British Airways,Yes,0
+805,AF567,Air France,Yes,0
+806,LH890,Lufthansa,Yes,0
+807,SQ123,Singapore Airlines,No,2
+808,QF456,Qantas,Yes,1
+809,EK789,Emirates,No,2
+810,AA234,American Airlines,No,2
+811,DL567,Delta Airlines,No,1
+812,UA890,United Airlines,Yes,1
+813,BA123,British Airways,No,0
+814,AF456,Air France,Yes,0
+815,LH789,Lufthansa,Yes,0
+816,SQ234,Singapore Airlines,No,0
+817,QF567,Qantas,Yes,0
+818,EK890,Emirates,Yes,1
+819,AA345,American Airlines,Yes,1
+820,DL678,Delta Airlines,Yes,1
+821,UA901,United Airlines,Yes,1
+822,BA456,British Airways,No,0
+823,AF789,Air France,No,0
+824,LH234,Lufthansa,No,0
+825,SQ567,Singapore Airlines,No,0
+826,QF890,Qantas,Yes,0
+827,EK123,Emirates,No,1
+828,AA456,American Airlines,No,2
+829,DL789,Delta Airlines,Yes,2
+830,UA234,United Airlines,No,1

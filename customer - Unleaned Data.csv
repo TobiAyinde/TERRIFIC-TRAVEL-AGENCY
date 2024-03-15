@@ -1,0 +1,140 @@
+﻿customer_id,customer_name,email,phone,address,premium_member
+101,Josh Hart,,4379804500,4154 Nelson Street,Yes
+102,Kevin Hart,Kevin@gmail.com,4379804501,1117 Heatherleigh,Yes
+103,Julius Randle,Julius@gmail.com,4379804502,4881 Dundas St,Yes
+104,Zion Williamson,Zion@gmail.com,4379804503,3360 Lynden Road,Yes
+105,John Clarkson,John@gmail.com,4379804504,2187 Exmouth Street,Yes
+106,Max Christie,Max@gmail.com,4379804505,583 Birkett Lane,Yes
+107,Richard Miller,,4379804506,4651 Wellington Street,No
+108,Clarke Henderson,Clarke@gmail.com,4379804507,4265 Coldstream Avenue,No
+109,Draymond Green,Draymond@gmail.com,4379804508,3269 Reserve St,Yes
+110,Chris  Paul,Chris @gmail.com,4379804509,2844 Blanshard,Yes
+111,Steven Adams,Steven@gmail.com,4379804510,1714 Sturgeon Drive,Yes
+112,Santi Aldama,Santi@gmail.com,4379804511,3465 rue Principale,No
+113,Grayson Allen,Grayson@gmail.com,4379804512,990 Boulevard Cremazie,Yes
+114,Jarret Alen,Jarret@gmail.com,4379804513,2351 Duke Street,No
+115,Jose Alvarado,Jose@gmail.com,4379804514,582 Ross Street,Yes
+116,Kyle Anderson,Kyle@gmail.com,4379804515,2207 Galts Ave,Yes
+117,Cole Anthony,,4379804516,1562 Ste. Catherine Ouest,No
+118,Deandre Ayton,Deandre@gmail.com,4379804517,3597 rue de la Gauchetière,Yes
+119,Marvin Bagley,Marvin@gmail.com,4379804518,4738 Mesa Vista Drive,Yes
+120,Lamelo Ball,Lamelo@gmail.com,4379804519,3219 rue Ontario Ouest,No
+121,Patrick Baldwin,Patrick@gmail.com,4379804520,4867 Eglinton Avenue,No
+122,Paolo Banchero,Paolo@gmail.com,4379804521,2645 Blanshard,Yes
+123,Desmond Bane,Desmond@gmail.com,4379804522,4577 Park Ct,Yes
+124,Harison Barnes,Harison@gmail.com,4379804523,3339 90th Avenue,Yes
+125,Nicolas Batum,Nicolas@gmail.com,4379804524,4138 Bay Street,Yes
+126,Bradley Beal,Bradley@gmail.com,4379804525,2419 Victoria Park Ave,No
+127,Malik Beasely,Malik@gmail.com,4379804526,4814 137th Avenue,No
+128,Patrick Beverly,Patrick@gmail.com,4379804527,3528 rue Saint-Édouard,Yes
+129,Scottie Barnes,Scottie@gmail.com,4379804528,3054 Scotts Lane,Yes
+130,Amari Bailey,,4379804529,99 Glover Road,No
+131,Efrat Shapir,Efrat@gmail.com,4379804530,1718 Mesa Vista Drive,No
+132,Jayanthi Rajagopalan,Jayanthi@gmail.com,4379804531,3742 3rd Avenue,Yes
+133,Mark Young,Mark@gmail.com,4379804532,967 Acton Avenue,No
+134,Michelle White,,4379804533,1142 Duke Street,Yes
+135,Nimao Ali,Nimao@gmail.com,4379804534,434 rue des Églises Est,Yes
+136,Mohammed Saleem,Mohammed@gmail.com,4379804535,4461 Carling Avenue,Yes
+137,Deqa Farah,Deqa@gmail.com,4379804536,2157 Roger Street,Yes
+138,Ana Mohamed,Ana@gmail.com,4379804537,2323 Granville St,Yes
+139,Stephanie Montojo,Stephanie@gmail.com,4379804538,2121 rue Levy,No
+140,Janice Gruchy,Janice@gmail.com,4379804539,4 Thurston Dr,Yes
+141,Giti Fatemi,Giti@gmail.com,4379804540,4488 Fallon Drive,Yes
+142,Tara Teeling,Tara@gmail.com,4379804541,3526 Toy Avenue,Yes
+143,Jeff McNair,,4379804542,3491 James Street,Yes
+144,Di Chang,Di@gmail.com,4379804543,3662 St. John Street,No
+145,Laura Mazer,Laura@gmail.com,4379804544,469 St Jean Baptiste St,No
+146,Félicité Daou,Félicité@gmail.com,4379804545,633 rue Principale,Yes
+147,Roy Wagner,Roy@gmail.com,4379804546,2160 Thatcher Avenue,Yes
+148,Sylvia Martignani,Sylvia@gmail.com,4379804547,4580 rue Saint-Antoine,Yes
+149,Ahmad Zelzle,,4379804548,3005 Main St,No
+150,Reema Malik,Reema@gmail.com,4379804549,3539 Eglinton Avenue,Yes
+151,Jeenat Ara,Jeenat@gmail.com,4379804550,3184 Jade St,Yes
+152,Yussria Rahman,Yussria@gmail.com,4379804551,1724 Essendene Avenue,No
+153,Aisha Sherazi,Aisha@gmail.com,4379804552,1176 Pine Street,No
+154,Sayyid Ali,Sayyid@gmail.com,4379804553,1175 Sheppard Ave,Yes
+155,Majida Saab,Majida@gmail.com,4379804554,2329 Township Rd,Yes
+156,Imran Haq,Imran@gmail.com,4379804555,4997 Alaska Hwy,Yes
+157,Mohammed Ilyas,Mohammed@gmail.com,4379804556,926 Bridgeport Rd,Yes
+158,Al-Saeed Mohammad,Al-Saeed@gmail.com,4379804557,4870 Ross Terrasse,No
+159,Ghousia Ali,Ghousia@gmail.com,4379804558,1765 Reserve St,No
+160,Shua Amari,Shua@gmail.com,4379804559,2039 Nelson Street,No
+161,Waheeda Khan,Waheeda@gmail.com,4379804560,1648 Woodvale Drive,No
+162,Asha Mohamed,Asha@gmail.com,4379804561,1985 Blanshard,No
+163,Syyed Ali,Syyed@gmail.com,4379804562,3737 Lyons Avenue,No
+164,Abdul Khan,Abdul@gmail.com,4379804563,2832 90th Avenue,Yes
+165,Zeinab Saleh,Zeinab@gmail.com,4379804564,4338 Bungay Road,Yes
+166,Abrar Ahmed,Abrar@gmail.com,4379804565,3735 Pine Street,Yes
+167,NADIM ALWAN,NADIM@gmail.com,4379804566,4853 Kinchant St,No
+168,Hassan Tabatabai,Hassan@gmail.com,4379804567,1926 Ganges Road,No
+169,Sally Kaloti,Sally@gmail.com,4379804568,4263 St-Jacques Est,Yes
+170,Leona Kuepfer,Leona@gmail.com,4379804569,4412 A Avenue,No
+171,Sarah Davidson,Sarah@gmail.com,4379804570,2693 Derry Rd,No
+172,Idamae Streicher,Idamae@gmail.com,4379804571,1162 rue Parc,Yes
+173,Diana Kuepfer,Diana@gmail.com,4379804572,322 Findlay Creek Road,No
+174,Christina Ebersol,Christina@gmail.com,4379804573,4074 A Avenue,No
+175,Julianne Streicher,Julianne@gmail.com,4379804574,3474 Sable Street,No
+176,Karen Streicher,Karen@gmail.com,4379804575,3444 Hastings Street,Yes
+177,Amney Behiry,Amney@gmail.com,4379804576,3367 chemin Georges,No
+178,Kexin Feng,Kexin@gmail.com,4379804577,1526 Merivale Road,No
+179,Frances Hatcher,Frances@gmail.com,4379804578,1564 49th Avenue,Yes
+180,Timothy Kim,Timothy@gmail.com,4379804579,4338 rue Garneau,No
+181,Cade Cunnigham,Cade@gmail.com,4379804580,3161 Acton Avenue,No
+182,Malcom Cazalon,Malcom@gmail.com,4379804581,3764 Bragg Road,No
+183,Killian Hayes,Killian@gmail.com,4379804582,957 Holdom Avenue,Yes
+184,Jaden Ivey,Jaden@gmail.com,4379804583,3054 Wallbridge Loyalist Rd,Yes
+185,Monte Morris,Monte@gmail.com,4379804584,3703 11th Ave,No
+186,Alec Burks,Alec@gmail.com,4379804585,2935 Manitoba Street,No
+187,Joe Harris,Joe@gmail.com,4379804586,4923 Bay Street,Yes
+188,Jared Rhoden,Jared@gmail.com,4379804587,3730 Hamilton Street,No
+189,Marcus Sasser,Marcuss@gmail.com,4379804588,1437 Robson St,No
+190,Ausar Thompson,Ausar@gmail.com,4379804589,813 Blind Bay Road,No
+191,Stanley Umude,Stanley@gmail.com,4379804590,1890 184th Street,Yes
+192,Bojan Bogdanovic,Bojan@gmail.com,4379804591,3928 rue des Églises Est,Yes
+193,Bruce Brown,Bruce@gmail.com,4379804592,834 Nelson Street,Yes
+194,Tyrese Haliburton,Tyrese@gmail.com,4379804593,2492 MacLaren Street,No
+195,Isiah Wong,Isiah@gmail.com,4379804594,3278 Rogers Road,No
+196,Kendall Brown,Kendall@gmail.com,4379804595,731 Blanshard,No
+197,Aaron Nesmith,Aaron@gmail.com,4379804596,415 Dominion St,No
+198,Jordan Nwora,Jordan@gmail.com,4379804597,846 Albert Street,No
+199,Jarace Walker,Jarace@gmail.com,4379804598,1114 102nd Avenue,Yes
+200,Myles Turner,Myles@gmail.com,4379804599,3670 St. John Street,No
+201, John cena, john@gmail.com,1649762491,123 Maple Street,No
+202, Randy ortan, Randy452@iCloud.com,1649754247,456 Pine Avenue,No
+203, Dwayan Johnson, rock@hotmail.com,1647325479,789 Birch Lane,No
+204, Emily clark, Emily87@conestoga.ca,1447624597,234 Elm Road,No
+205, Michael johnson, michael43@outlook.com,1467926461,567 Oak Boulevard,No
+206, ksi, jj@yahoo.com,1649573249,890 Cedar Court,Yes
+207, Rose Taylor, Taylor@iCloud.com,4762547564,321 Spruce Street,No
+208, Olivia Rodrigaze, oliv54@gmail.com,1423575685,654 Birch Avenue,No
+209, James Charlse, james@yahoo.com,1432579547,987 Maple Lane,No
+210, Ryan Garcia, Garcia@conestoga.com,4265789542,876 Pine Road,No
+211, kashyap gohil,kashyapgohil99@gmail.com,5647924621,543 Elm Place,No
+212,Parth Patel,parth12@hotmail.com,5462165474,210 Oak Street,No
+213, Mahima Chhagani,mahimac@yahoo.com,4629752146,789 Cedar Avenue,Yes
+214, Amela Havic,havic34@gmail.com,1954762451,876 Birch Drive,No
+215, leo Messi, leo23@gmail.com,5476982156,345 Maple Crescent,No
+216, Nathan Gatt,nathan834@hotmail.com,4629475164,654 Pine Circle,No
+217, Sid Patel,Sidpsunil@outlook.com,2495721547,432 Elm Square,No
+218, het Desai,Desaih@yahoo.com,2165794561,789 Spruce Court,No
+219, Diapk Patel,Dipak67@hotmail.com,1647985462,876 Cedar Lane,No
+220, Ami Patel,Ami643@yahoo.com,4249785446,210 Birch Road,Yes
+221, Kashyap Gohil,gohilkashyap1@iCloud.com,1467894214,543 Oak Boulevard,No
+222, Rahul Patel,Rpatel743@hotmail.com,1432457894,321 Spruce Street,No
+223, Yuvin Garcia,YuvinRod@microsoft.com,8751435795,654 Birch Avenue,No
+224, son yun min,sonyun243@gmail.com,1435785468,987 Maple Lane,No
+225, Jash smith, Smith@96@gmail.com,4254795456,876 Pine Road,No
+226, Sam Singh,singh84@yahoo.com,1432489476,210 Birch Road,No
+227, Will saul, Will65@iCloud.com,9574123547,543 Oak Boulevard,Yes
+228, Riya Bakrola, riyaBs8965@gmail.com,6547852145,321 Spruce Street,No
+229, Chloe Anu, ChloeAnu7845@outlook.com,4325479547,654 Birch Avenue,No
+230, Sabrina Smith, smithS@yahoo.com,3578546213,321 Spruce Street,No
+231, Rahul Patel,Rpatel743@hotmail.com,1432457894,321 Spruce Street,No
+232, Yuvin Garcia,YuvinRod@microsoft.com,8751435795,654 Birch Avenue,No
+233, son yun min,sonyun243@gmail.com,1435785468,987 Maple Lane,No
+234, Jash smith, Smith@96@gmail.com,4254795456,876 Pine Road,No
+235, Sam Singh,singh84@yahoo.com,1432489476,210 Birch Road,No
+236, Will saul, Will65@iCloud.com,9574123547,543 Oak Boulevard,Yes
+237, Riya Bakrola, riyaBs8965@gmail.com,6547852145,321 Spruce Street,No
+238, Chloe Anu, ChloeAnu7845@outlook.com,4325479547,654 Birch Avenue,No
+239, Sabrina Smith, smithS@yahoo.com,3578546213,321 Spruce Street,No

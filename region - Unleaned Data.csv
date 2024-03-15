@@ -1,0 +1,32 @@
+﻿region_id,region_name,city,country,airport_code
+8888,New York,New York City,USA,JFK
+8889,Los Angeles,Los Angeles,USA,LAX
+8890,London,London,UK,LHR
+8891,Paris,Paris,France,CDG
+8892,London,London,United Kingdom,LON
+8893,India,India,India,DEL
+8894,Dubai,Dubai,United Arab Emirates,DXB
+8895,St. Mortis,St. Mortis,Switzerland,SMV
+8896,Bangkok,Bangkok,Thailand,BKK
+8897,St. Barths,St. Barths,Saint Barthelemy,SBH
+8898,Bali,Bali,Indonesia,DPS
+8899,Tokyo,Tokyo,Japan,HND 
+8900,Galle,Galle,Sri Lanka,CMB
+8901,Bruton,Bruton,United Kingdom,BRU
+8902,Maldives,Maldives,Maldives,MLE (Malé)
+8903,Athens,Athens,Greece,ATH
+8904,Paris,Paris,France,CDG
+8905,Antibes,Antibes,France,ANT
+8906,Auchterarder,Auchterarder,United Kingdom,AUC
+8907,Kyoto,Kyoto,Japan,ITM
+8908,Singapore,Singapore,Singapore,SIN
+8909,São Paulo,São Paulo,Brazil,GRU
+8910,Roquebrune-Cap-Martin,Roquebrune-Cap-Martin,France,CMI
+8911,New York,New York,United States,JFK
+8912,Madrid,Madrid,Spain,MAD
+8913,Marrakech,Marrakech,Morocco,RAK
+8914,Positano,Positano,Italy,POS
+8915,Savelletri,Savelletri,Italy,BRI
+8916,Tulum,Tulum,Mexico,TUY
+8917,Sumba Island,Sumba Island,Indonesia,WAQ
+8918,Singapore,Singapore,Singapore,SIN
