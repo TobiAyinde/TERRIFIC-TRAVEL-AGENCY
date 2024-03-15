@@ -63,4 +63,21 @@ The revenue trends observed during 2023 demonstrate varying patterns in monthly 
 
 
 
+**Geographical Revenue Distribution Analysis:**
+
+**Summary**
+
+Using aggregation functions and grouping the data by country and region to derive the total and average revenue per region and country, showcasing revenue distribution.
+
+![image](https://github.com/TobiAyinde/TERRIFIC-TRAVEL-AGENCY/assets/149031697/f77d198c-0c69-494e-91e6-7ab0da8cbb4d)
+
+![image](https://github.com/TobiAyinde/TERRIFIC-TRAVEL-AGENCY/assets/149031697/5cbef42d-de8c-48e6-967a-82b4dc4180fc)
+
+**Insight**
+
+The Geographical Revenue Distribution demonstrates the allocation of revenue across several nations and their corresponding regions. The data reveals significant disparities in revenue across different regions, highlighting locations such as Antibes in France and London in the United Kingdom as major contributors to high revenue. This suggests that there are varying average revenue levels within regions of the same nation. Possible factors contributing to these variances include regional demand drivers, unique attractions, cultural events, or marketing strategies.
+
+
+
+
 # Goals and Objectives of the project
